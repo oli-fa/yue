@@ -8,30 +8,6 @@
     "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
-    "header": "",
-    "id": 0,
-    "loginCheckJs": "",
-    "loginUrl": "",
-    "name": "4100  【新闻】♀",
-    "url": "http://tts.baidu.com/text2audio,{\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=4100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
-  },
-  {
-    "header": "",
-    "id": 1608719741730,
-    "loginCheckJs": "",
-    "loginUrl": "",
-    "name": "4115  【优雅】♂",
-    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=211&vol=5&pit=5&_res_tag_=audio\"\n}"
-  },
-  {
-    "header": "",
-    "id": -86,
-    "loginCheckJs": "",
-    "loginUrl": "",
-    "name": "4123  【温柔】♂",
-    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4123&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
-  },
-  {
     "id": -100,
     "name": "4127 魔改版",
     "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=11&vol=5&aue=6&pit=3&_res_tag_=audio\"\n}"
@@ -269,7 +245,10 @@
     "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4129&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
+    "header": "",
     "id": 1619429777031,
+    "loginCheckJs": "",
+    "loginUrl": "",
     "name": "磁性男声 精修版5003",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220=&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
@@ -299,4 +278,3 @@
     "url": "https://www.google.cn/speech-api/v2/synthesize?key=AIzaSyCkfPOPZXDKNn8hhgu3JrA62wIgC93d44k&enc=mpeg&client=chromium&text={{encodeURIComponent(speakText)}}&lang=zh-HK&speed=0.5\n\n"
   }
 ]
-
