@@ -1,3 +1,7 @@
+# 点击跳转生成页面
+
+https://oli-fa.github.io/yue/link.html
+
 # 常用的分发链接
 
 ----
