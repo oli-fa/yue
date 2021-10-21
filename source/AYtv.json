@@ -3107,9 +3107,7 @@
                   {
                     "name": "四海钓鱼",
                     "urls": [
-                        "http://cg01.hrtn.net:9090/live/shdy_1500.m3u8",
                         "http://124.232.231.246:6610/000000001001/201500000054/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2",
-                        "http://58.20.64.92:9999/tsfile/live/1031_1.m3u8",
                         "http://womlive.cloud.wo.cn/tvlive/100077/otpzod_otpzod,100077_hls_pull_2000K_live.m3u8"
                     ]
                 },
