@@ -2074,7 +2074,7 @@
             "api":"https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
             "playUrl":"https://www.hongniujiexi.com/m3u8/?url="
         }
-    ],
+],
     "lives":[
         {
       "group": "国家央视",
@@ -4282,4 +4282,3 @@
         "cms.qdwght.com"
     ]
 }
-|
