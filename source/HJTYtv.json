@@ -1762,12 +1762,36 @@
             "type":0,
             "api":"https://v.dtjos.com/api.php/provide/vod/at/xml"
         },
+           {
+      "key": "艾特",
+      "name": "艾特",
+      "type": 0,
+      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml"
+    },
         {
             "key":"小蜻蜓",
             "name":"小蜻蜓",
             "type":1,
             "api":"http://3ketv.com/api.php/provide/vod/"
         },
+           {
+      "key": "YT影视",
+      "name": "YT影视",
+      "type": 1,
+      "api": "http://ytys.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "爱看啦",
+      "name": "爱看啦",
+      "type": 1,
+      "api": "http://v.aik.la/api.php/provide/vod/"
+    },
+    {
+      "key": "w7tv",
+      "name": "w7tv",
+      "type": 1,
+      "api": "http://w7tv.com/api.php/provide/vod/"
+    },
         {
             "key":"电影牛",
             "name":"电影牛",
@@ -1812,6 +1836,13 @@
             "api":"https://pianku.wang/api.php/provide/vod/at/xml",
             "playUrl":"https://api.jhdyw.vip/?url="
         },
+           {
+      "key": "泰剧迷",
+      "name": "泰剧迷",
+      "type": 0,
+      "api": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.fqzy.cc/jx.php?url="
+    },
         {
             "key":"乐多采集1",
             "name":"乐多采集1",
@@ -1826,6 +1857,12 @@
             "api":"https://cj.leduocaiji.com/inc/api.php",
             "playUrl":"https://api.xxctzy.com/1.php?vid="
         },
+        {
+      "key": "U酷资源",
+      "name": "U酷资源",
+      "type": 1,
+      "api": "http://ukuzy.com/api.php/provide/vod?ac=list"
+    },
         {
             "key":"天堂资源",
             "name":"天堂资源",
@@ -1952,6 +1989,18 @@
             "type":0,
             "api":"http://dy.51isu.com:11801/api.php/provide/vod/at/xml"
         },
+         {
+      "key": "嗨哆咪影视",
+      "name": "嗨哆咪影视",
+      "type": 1,
+      "api": "http://hdmys1.com/api.php/provide/vod/"
+    },
+    {
+      "key": "热映网",
+      "name": "热映网",
+      "type": 1,
+      "api": "http://hl.reying.vip/api.php/provide/vod/"
+    },
         {
             "key":"零玖影视",
             "name":"零玖影视",
@@ -2074,7 +2123,7 @@
             "api":"https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
             "playUrl":"https://www.hongniujiexi.com/m3u8/?url="
         }
-],
+    ],
     "lives":[
         {
       "group": "国家央视",
@@ -3446,6 +3495,26 @@
             "url":"https://1.api.80tvs.cn/?url="
         },
         {
+            "name":"m2090",
+            "url":"https://m2090.com/?url="
+        },
+        {
+            "name":"娃娃",
+            "url":"http://frog.pinellia.xyz/jx/?url="
+        },
+        {
+            "name":"33tn",
+            "url":"http://www.33tn.cn/?url="
+        },
+         {
+            "name": "奈斯360",
+            "url": "https://jx.ns360.cn/1080/jiexi/?url="
+        },
+        {
+            "name": "JJXX解析",
+            "url": "http://jjxx.me/?url="
+        },
+        {
             "name":"2A资源",
             "url":"https://www.2ajx.com/vip.php?url="
         },
@@ -3605,21 +3674,6 @@
       "url": "http://play.bichangzw.cn/jianghu/json/?url="
     },
     {
-      "name": "parwix1735",
-      "type": 1,
-      "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=dfghjlsvDGKMPQRSUV&url="
-    },
-    {
-      "name": "parwix654",
-      "type": 1,
-      "url": "https://api.parwix.com:4433/analysis/json/?uid=654&my=abdeinruvxyBDORWX7&url="
-    },
-    {
-      "name": "parwix2206",
-      "type": 1,
-      "url": "https://vip.parwix.com:4433/analysis/json/?uid=2206&my=hmqwABCHILMNTV5678&url="
-    },
-    {
       "name": "mouliuk",
       "type": 1,
       "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
@@ -3753,10 +3807,6 @@
             "url":"https://jiexi.janan.net/jiexi/?url="
         },
         {
-            "name":"久播",
-            "url":"https://jx.jiubojx.com/vip/?url="
-        },
-        {
             "name":"磨菇",
             "url":"https://jx.wzslw.cn/?url="
         },
@@ -3801,20 +3851,12 @@
             "url":"https://z1.m1907.cn/?jx="
         },
         {
-            "name":"B站1",
-            "url":"https://vip.parwix.com:4433/player/?url="
-        },
-        {
             "name":"爱跟",
             "url":"https://vip.2ktvb.com/player/?url="
         },
         {
             "name":"BL",
             "url":"https://vip.bljiex.com/?v="
-        },
-        {
-            "name":"CK",
-            "url":"https://www.ckplayer.vip/jiexi/?url="
         },
         {
             "name":"CHok",
@@ -3825,14 +3867,6 @@
             "url":"https://api.qianqi.net/vip/?url="
         },
         {
-            "name":"百域",
-            "url":"https://jx.618g.com/?url="
-        },
-        {
-            "name":"ckmov",
-            "url":"https://www.ckmov.vip/api.php?url="
-        },
-        {
             "name":"大白",
             "url":"https://api.myzch.cn/?url="
         },
@@ -3841,21 +3875,12 @@
             "url":"https://jx.52damu.com/dmjx/jiexi.php?url="
         },
         {
-            "name":"迪奥",
-            "url":"https://123.1dior.cn/?url="
-        },
-        {
             "name":"福星",
             "url":"https://jx.popo520.cn/jiexi/?url="
         },
         {
             "name":"跟剧",
             "url":"https://www.5igen.com/dmplayer/player/?url="
-        },
-        {
-            "name":"RDHK",
-            "url":"https://jx.rdhk.net/?v=",
-            "t":"m"
         },
         {
             "name":"H8",
@@ -3869,18 +3894,6 @@
         {
             "name":"解析",
             "url":"https://ckmov.ccyjjd.com/ckmov/?url="
-        },
-        {
-            "name":"解析la",
-            "url":"https://api.jiexi.la/?url="
-        },
-        {
-            "name":"久播",
-            "url":"https://jx.jiubojx.com/vip.php?url="
-        },
-        {
-            "name":"九八",
-            "url":"https://jx.youyitv.com/?url="
         },
         {
             "name":"可乐",
@@ -3906,10 +3919,6 @@
             "t":"m"
         },
         {
-            "name":"乐喵",
-            "url":"https://jx.hao-zsj.cn/vip/?url="
-        },
-        {
             "name":"Mao",
             "url":"https://qd.hxys.tv/m3u8.php?url="
         },
@@ -3918,16 +3927,8 @@
             "url":"https://jx.m3u8.tv/jiexi/?url="
         },
         {
-            "name":"MUTV",
-            "url":"https://jiexi.janan.net/jiexi/?url="
-        },
-        {
             "name":"明日",
             "url":"https://jx.yingxiangbao.cn/vip.php?url="
-        },
-        {
-            "name":"磨菇",
-            "url":"https://jx.wzslw.cn/?url="
         },
         {
             "name":"诺诺",
@@ -3936,10 +3937,6 @@
         {
             "name":"诺讯",
             "url":"https://www.nxflv.com/?url="
-        },
-        {
-            "name":"OK",
-            "url":"https://okjx.cc/?url="
         },
         {
             "name":"PM",
@@ -3995,20 +3992,8 @@
             "url":"https://jx.xmflv.com/?url="
         },
         {
-            "name":"小蒋",
-            "url":"https://www.kpezp.cn/jlexi.php?url="
-        },
-        {
-            "name":"小狼",
-            "url":"https://jx.yaohuaxuan.com/?url="
-        },
-        {
             "name":"星驰",
             "url":"https://vip.cjys.top/?url="
-        },
-        {
-            "name":"月亮",
-            "url":"https://api.yueliangjx.com/?url="
         },
         {
             "name":"云点播",
@@ -4017,36 +4002,17 @@
         {
             "name":"云端",
             "url":"https://jx.ergan.top/?url="
-        },
-        {
-            "name":"云析",
-            "url":"https://jx.yparse.com/index.php?url="
-        },
-        {
-            "name":"0523",
-            "url":"https://go.yh0523.cn/y.cy?url="
-        },
-        {
-            "name":"17云",
-            "url":"https://www.1717yun.com/jx/ty.php?url="
-        },
-        {
-            "name":"66",
-            "url":"https://api.3jx.top/vip/?url="
-        },
-        {
-            "name":"116",
-            "url":"https://jx.116kan.com/?url="
-        },
-        {
-            "name":"200",
-            "url":"https://vip.66parse.club/?url="
-        },
-        {
-            "name":"8090",
-            "url":"https://www.8090g.cn/?url="
         }
     ],
+    "Parallel": [
+    "https://api.jhdyw.vip/?url=",
+    "http://jx.hao-zsj.cn/vip/?url=",
+    "https://jx.renrenmi.cc/?url=",
+    "https://m2090.com/?url=",
+    "https://vip.parwix.com:4433/player/?url=",
+    "https://jx.ns360.cn/1080/jiexi/?url=",
+    "http://jjxx.me/?url="
+  ],
     "flags":[
         "youku",
         "qq",
