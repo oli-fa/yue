@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.fastgit.org/oli-fa/yue/main/source/custom_spider.jar",
-    "sites":[
+  "spider": "https://gitee.com/CCSHCoder/APP/raw/master/custom_spider.jar",
+  "sites": [
     {
     "key": "csp_yysdali",
     "name": "YYDS影视",
