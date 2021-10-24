@@ -1,9 +1,9 @@
 {
     "spider":"https://gitee.com/CCSHCoder/APP/raw/master/custom_spider.jar",
     "sites":[
-    {
+{
             "key": "默认主页",
-            "name": "默认主页",
+            "name": "红牛2号",
             "type": 0,
             "api": "https://www.hongniuzy1.com/inc/api.php",
             "playUrl": "http://jjxx.me/?url=",
@@ -83,7 +83,7 @@
             "filterable":1
         },
         {
-            "key": "VIP影视（感谢github作者 catvod&小黄瓜等)",
+            "key": "VIP影视（等)",
             "name": "VIP影视",
             "type": 0,
             "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
