@@ -1,6 +1,33 @@
 {
     "spider":"https://gitee.com/CCSHCoder/APP/raw/master/custom_spider.jar",
     "sites":[
+    {
+            "key": "默认主页",
+            "name": "红牛2号",
+            "type": 0,
+            "api": "https://www.hongniuzy1.com/inc/api.php",
+            "playUrl": "http://jjxx.me/?url=",
+      "categories": [
+         "国产剧",
+         "欧美剧",
+         "港澳剧",
+         "韩剧",
+         "伦理片",
+         "动作片",
+         "喜剧片",
+         "爱情片",
+         "科幻片",
+         "恐怖片",
+         "剧情片",
+         "战争片",
+         "综艺",
+         "动漫",
+         "动漫电影",
+         "台湾剧",
+         "泰剧",
+         "纪录片"
+      ]
+        },
         {
             "key":"csp_EPangApp",
             "name":"阿房(爬虫)",
@@ -56,7 +83,7 @@
             "filterable":1
         },
         {
-            "key": "VIP影视（感谢github作者 catvod&小黄瓜等)",
+            "key": "VIP影视（感谢githu瓜等)",
             "name": "VIP影视",
             "type": 0,
             "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
@@ -4255,11 +4282,6 @@
       "url": "http://api.wyydm.top/home/api?type=ys&uid=14811&key=wyydm&url="
     },
     {
-      "name": "wuqcms",
-      "type": 1,
-      "url": "https://jsnn.wuqcms.com/api/?key=u93ubpZtqXYAjsKt3f&url="
-    },
-    {
       "name": "nuanmaogongju",
       "type": 1,
       "url": "http://jx.nuanmaogongju.com/sbx/?url="
@@ -4658,6 +4680,14 @@
             "url":"https://jx.ergan.top/?url="
         }
     ],
+      "Parallel": [
+    "http://jx.hao-zsj.cn/vip/?url=",
+    "https://jx.renrenmi.cc/?url=",
+    "https://m2090.com/?url=",
+    "https://vip.parwix.com:4433/player/?url=",
+    "https://jx.ns360.cn/1080/jiexi/?url=",
+    "http://jjxx.me/?url="
+  ],
     "flags":[
         "youku",
         "qq",
