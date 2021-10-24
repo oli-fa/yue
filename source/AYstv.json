@@ -1,5 +1,5 @@
 {
-  "spider": "https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/custom_spider.jar",
+  "spider":  "https://github.com/Tangsan99999/tv/blob/main/custom_spider.jar?raw=true",
   "sites": [
     {
     "key": "csp_yysdali",
