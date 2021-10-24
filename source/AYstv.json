@@ -56,6 +56,20 @@
             "filterable":1
         },
         {
+            "key": "VIP影视（感谢github作者 catvod&小黄瓜等)",
+            "name": "VIP影视",
+            "type": 0,
+            "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
+            "playUrl": ""
+        },
+        {
+            "key": "人人影视",
+            "name": "人人影视",
+            "type": 0,
+            "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
+            "playUrl": "https://jx.renrenmi.cc/?url="
+        },
+        {
             "key":"csp_Buka",
             "name":"真不卡(爬虫)",
             "type":3,
@@ -81,6 +95,23 @@
             "searchable":1,
             "quickSearch":0,
             "filterable":0
+        },
+        {
+           "key": "csp_xpath_egg",
+          "name": "蛋蛋影院(XPath)",
+          "type": 3,
+          "api": "csp_XPathEgg",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+        },
+         {
+            "key": "默认主页",
+            "name": "红牛伦理",
+            "type": 0,
+            "api": "https://www.hongniuzy1.com/inc/seacms.php",
+            "playUrl": "https://www.hongniujiexi.com/m3u8/?url="
         },
         {
             "key":"csp_xpath_94sm",
@@ -212,7 +243,6 @@
 { "key": "新奇", "name": "新奇遇影视（爬虫）", "type": 1, "api": "https://www.neenl.com/api.php/provide/vod/?ac=list" }, 
  { "key": "火鸟影视", "name": "火鸟影视（爬虫）", "type": 0, "api": "http://zy.itono.cn/inc/qq.php", "playUrl": "http://api.u1o.net/?url=" },
 { "key": "速影", "name": "极速影院（爬虫）", "type": 0, "api": "https://速影128.xyz/inc/api.php" }, 
-{ "key": "爱美剧", "name": "爱美剧（爬虫）", "type": 0, "api": "https://www.meijuxq.com/inc/api.php" },
  { "key": "天空影视", "name": "天空影视（爬虫）", "type": 0, "api": "https://caiji.tiankongapi.com/inc/api.php" }, 
 { "key": "挖挖影视", "name": "挖挖影视（爬虫）", "type": 0,"api": "https://v8.bdxzyapi.com/inc/api.php" }, 
  { "key":"飘花","name":"飘花影视（爬虫）", "type": 0, "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml" },
@@ -220,12 +250,34 @@
 { "key":"源","name":"奈斯(爬虫)","type": 0,"api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml","playUrl": "" }, 
 { "key":"源","name":"骚火(爬虫)", "type": 0,"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml","playUrl": "","categories":[] },
 { "key": "csp_Auete","name": "烽火(爬虫)", "type": 3, "api":"csp_Auete", "searchable": 1, "quickSearch": 0, "filterable": 1 }, 
-{ "key": "csp_Nekk","name":"看看(爬虫)", "type": 3, "api": "csp_Nekk", "searchable": 1, "quickSearch": 0, "filterable": 1 }, 
+{ "key": "csp_Nekk","name":"看看九亿(爬虫)", "type": 3, "api": "csp_Nekk", "searchable": 1, "quickSearch": 0, "filterable": 1 }, 
 { "key": "csp_Auete", "name": "爱好(爬虫)", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 0, "filterable": 1 },
 { "key": "csp_Cokemv", "name": "溪蝶(爬虫)", "type": 3, "api": "csp_Cokemv", "searchable": 1, "quickSearch": 0, "filterable": 1 },
 { "key":"大海","name":"大海(爬虫)","type": 0,"api": "https://www.39kan.com/api.php/provide/vod/at/xml","playUrl":"","categories":["综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧" 
 ]
 },
+{ "key": "爱美剧", "name": "爱美剧（爬虫）", "type": 0, "api": "https://www.meijuxq.com/inc/api.php" },
+        {
+            "key": "美剧星球",
+            "name": "美剧星球",
+            "type": 0,
+            "api": "https://www.meijuxq.com/inc/api.php",
+            "playUrl": ""
+        },
+                {
+            "key": "九九美剧",
+            "name": "九九美剧",
+            "type": 0,
+            "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+            "playUrl": "http://jx.hao-zsj.cn/vip/?url="
+        },
+        {
+      "key": "美剧天堂",
+      "name": "美剧天堂",
+      "type": 1,
+      "api": "https://www.meijuday.com/api.php/provide/vod/",
+      "playUrl": ""
+    },
 {
     "key": "我爱跟剧（爬虫）",
       "name": "我爱跟剧（爬虫）",
@@ -293,6 +345,13 @@
       "searchable": 1,
       "filterable": 0
     },
+      {
+            "key": "番茄资源",
+            "name": "番茄资源",
+            "type": 0,
+            "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/?ac=list",
+            "playUrl": "https://dp.8b5q.cn/dplayer/?url="
+        },
 {
       "key": "饭团影院（爬虫）",
       "name": "饭团影院（爬虫）",
@@ -404,7 +463,7 @@
       "name": "2A资源站",
       "type": 1,
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
-      "playUrl": "",
+     "playUrl": "https://www.2ajx.com/vip.php?url=",
       "categories": [
         "综艺",
         "动作片",
@@ -446,7 +505,7 @@
       "name": "蘑菇资源",
       "type": 0,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
-      "playUrl": "",
+      "playUrl": "http://jx.hao-zsj.cn/vip/?url=",
       "categories": [
         "综艺",
         "动漫",
@@ -699,13 +758,12 @@
     "动画片"
  ]
     },
-    
     {
             "key": "看看屋",
             "name": "看看屋",
             "type": 0,
             "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
+            "playUrl": "http://jx.hao-zsj.cn/vip/?url=",
             "categories": [                
             ]
         },
@@ -753,6 +811,13 @@
             "searchable":1,
             "quickSearch":0,
             "ext":"播放呀"
+        },
+        {
+            "key": "1008资源",
+            "name": "1008资源",
+            "type": 0,
+            "api": "https://v8.bdxzyapi.com/inc/api.php",
+            "playUrl": ""
         },
         {
             "key":"csp_ysdq_畅视影视",
@@ -1325,12 +1390,6 @@
             "api":"http://www.feishi.ltd/api.php/provide/vod/at/xml/"
         },
         {
-            "key":"人人资源",
-            "name":"人人资源",
-            "type":0,
-            "api":"https://www.rrzyw.cc/api.php/provide/vod/at/xml/"
-        },
-        {
             "key":"卧龙资源",
             "name":"卧龙资源",
             "type":0,
@@ -1355,23 +1414,32 @@
             "api":"https://xmyun.xyz/api.php/provide/vod/at/xml"
         },
         {
-      "key": "美剧天堂",
-      "name": "美剧天堂",
-      "type": 1,
-      "api": "https://www.meijuday.com/api.php/provide/vod/"
-    },
-        {
             "key":"奇乐资源",
-            "name":"奇乐资源",
+            "name":"优剧资源",
             "type":0,
             "api":"https://zy.ujuba.com/api.php/provide/vod/at/xml",
             "playUrl":"https://zy.ujuba.com/play.php?url="
         },
+                {
+            "key": "无尽资源",
+            "name": "无尽资源",
+            "type": 0,
+            "api": "https://wuzy9.com/api.php/provide/vod/at/xml",
+            "playUrl": ""
+        },
+  {
+            "key": "无尽资源",
+            "name": "无尽资源2",
+            "type": 0,
+            "api": "https://wujinzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "https://jx.xhswglobal.com/dplayer/?url="
+        },
         {
-            "key":"无尽资源",
-            "name":"无尽资源",
-            "type":0,
-            "api":"https://wuzy9.com/api.php/provide/vod/at/xml"
+            "key": "新影资源",
+            "name": "新影资源",
+            "type": 0,
+            "api": "https://api.xinyingcaiji.com/api.php/provide/vod/at/xml/",
+            "playUrl": "https://jx.xhswglobal.com/dplayer/?url="
         },
         {
             "key":"快播资源",
@@ -1407,7 +1475,8 @@
             "key":"TVB云",
             "name":"TVB云",
             "type":0,
-            "api":"http://www.tvyb02.com/api.php/provide/vod/at/xml"
+            "api":"http://www.tvyb02.com/api.php/provide/vod/at/xml",
+            "playUrl": "http://jx.hao-zsj.cn/vip/?url="
         },
         {
             "key":"One影视",
@@ -1432,12 +1501,6 @@
             "name":"爱看1080",
             "type":0,
             "api":"http://www.ik1080.com/api.php/provide/vod/at/xml"
-        },
-        {
-            "key":"青莲资源",
-            "name":"青莲资源",
-            "type":0,
-            "api":"https://www.qinglyy.com/api.php/provide/vod/at/xml"
         },
         {
             "key":"韩剧资源",
@@ -1665,12 +1728,6 @@
             "playUrl":"https://vip.bljiex.com/?v="
         },
         {
-            "key":"三九美剧",
-            "name":"三九美剧",
-            "type":0,
-            "api":"https://www.999meiju.com/api.php/provide/vod/at/xml"
-        },
-        {
             "key":"启灵资源",
             "name":"启灵资源",
             "type":0,
@@ -1818,22 +1875,17 @@
             "playUrl":"https://api.xxctzy.com/1.php?vid="
         },
         {
-            "key":"蘑菇资源",
-            "name":"蘑菇资源",
-            "type":0,
-            "api":"http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/"
-        },
-        {
             "key":"88资源",
             "name":"88资源",
             "type":0,
             "api":"http://www.88zyw.net/inc/api.php"
         },
         {
-            "key":"39影视",
-            "name":"39影视",
-            "type":0,
-            "api":"https://www.39kan.com/api.php/provide/vod/at/xml"
+            "key": "39影视",
+            "name": "39影视",
+            "type": 0,
+            "api": "https://www.39kan.com/api.php/provide/vod/at/xml/",
+            "playUrl": "http://jx.hao-zsj.cn/vip/?url="
         },
         {
             "key":"片库",
@@ -1855,13 +1907,6 @@
             "type":0,
             "api":"http://cj.leduocaiji.com/inc/seacmsapi.php",
             "playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="
-        },
-        {
-            "key":"乐多采集2",
-            "name":"乐多采集2",
-            "type":0,
-            "api":"https://cj.leduocaiji.com/inc/api.php",
-            "playUrl":"https://api.xxctzy.com/1.php?vid="
         },
         {
       "key": "U酷资源",
@@ -2014,12 +2059,6 @@
             "api":"https://09tv.top/api.php/provide/vod/at/xml"
         },
         {
-            "key":"虾米资源",
-            "name":"虾米资源",
-            "type":0,
-            "api":"https://zy.xmflv.vip/api.php/provide/vod/at/xml"
-        },
-        {
             "key":"乐喵",
             "name":"乐喵",
             "type":0,
@@ -2054,18 +2093,6 @@
             "name":"萌果资源",
             "type":0,
             "api":"http://api.appearoo.top/api.php/provide/vod/at/xml/"
-        },
-        {
-            "key":"美剧星球",
-            "name":"美剧星球",
-            "type":0,
-            "api":"https://www.meijuxq.com/inc/api.php"
-        },
-        {
-            "key":"2A资源",
-            "name":"2A资源",
-            "type":0,
-            "api":"http://zy.zcocc.com/api.php/provide/vod/at/xml"
         },
         {
             "key":"天空采集",
@@ -4621,6 +4648,10 @@
         {
             "name":"云点播",
             "url":"https://api.iopenyun.com:88/vip/?url="
+        },
+        {
+            "name": "百玉解析",
+            "url": "http://api.baiyug.vip/index.php?url="
         },
         {
             "name":"云端",
