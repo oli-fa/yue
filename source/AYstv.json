@@ -29,6 +29,15 @@
       ]
         },
         {
+            "key":"csp_ysdq_VIP影视",
+            "name":"VIP影视(搜)",
+            "type":3,
+            "api":"csp_Ysdq",
+            "searchable":1,
+            "quickSearch":0,
+            "ext":"VIP影视"
+        },
+        {
             "key":"csp_EPangApp",
             "name":"阿房(爬虫)",
             "type":3,
@@ -1079,15 +1088,6 @@
             "searchable":1,
             "quickSearch":0,
             "ext":"FUFU影视"
-        },
-        {
-            "key":"csp_ysdq_VIP影视",
-            "name":"VIP影视(搜)",
-            "type":3,
-            "api":"csp_Ysdq",
-            "searchable":1,
-            "quickSearch":0,
-            "ext":"VIP影视"
         },
         {
             "key":"csp_ysdq_爱影视",
