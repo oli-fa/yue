@@ -3,7 +3,7 @@
     "sites":[
     {
             "key": "默认主页",
-            "name": "红牛2号",
+            "name": "红牛1025",
             "type": 0,
             "api": "https://www.hongniuzy1.com/inc/api.php",
             "playUrl": "http://jjxx.me/?url=",
