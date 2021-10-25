@@ -3,7 +3,7 @@
     "sites":[
     {
         "key": "默认主页",
-        "name": "牛B1026",
+        "name": "主页1026",
         "type": 0,
         "api": "https://www.hongniuzy1.com/inc/api.php",
         "playUrl": "http://jjxx.me/?url=",
@@ -2574,7 +2574,7 @@
       ]
     },
     {
-      "group": "体育4K",
+      "group": "体育☆4K",
       "channels": [
       {
                     "name": "爱上4K",
