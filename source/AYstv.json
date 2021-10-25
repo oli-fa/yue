@@ -1,23 +1,13 @@
 {
   "spider":  "https://raw.fastgit.org/oli-fa/yue/main/source/custom_spider.jar",
   "sites": [
-    {
-    "key": "csp_yysdali",
-    "name": "YYDS影视",
-    "type": 3,
-    "api": "csp_YydsAli",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
-},
-    {
-            "key": "默认主页",
-            "name": "红牛1025",
-            "type": 0,
-            "api": "https://www.hongniuzy1.com/inc/api.php",
-            "playUrl": "http://jjxx.me/?url=",
-      "categories": [
+     {
+        "key": "默认主页",
+        "name": "牛B1026",
+        "type": 0,
+        "api": "https://www.hongniuzy1.com/inc/api.php",
+        "playUrl": "http://jjxx.me/?url=",
+        "categories": [
          "国产剧",
          "欧美剧",
          "港澳剧",
@@ -38,6 +28,33 @@
          "纪录片"
       ]
         },
+    {
+    "key": "csp_yysdali",
+    "name": "YYDS影视",
+    "type": 3,
+    "api": "csp_YydsAli",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+},
+  {
+      "key": "竹嘎资源",
+      "name": "竹嘎资源",
+      "type": 1,
+      "api": "http://m.ycccyk.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "动画片",
+        "综艺"
+      ]
+      },
         {
             "key":"csp_EPangApp",
             "name":"阿房(爬虫)",
@@ -105,6 +122,24 @@
             "api": "https://www.77diany.com/api.php/provide/vod/"
         },
         {
+            "key":"csp_Djx",
+            "name":"瓜皮TV(爬虫)",
+            "type":3,
+            "api":"csp_Djx",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1
+        },
+        {
+            "key":"csp_Imaple",
+            "name":"枫林网(爬虫)",
+            "type":3,
+            "api":"csp_Imaple",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1
+        },
+        {
             "key":"csp_Ysgc",
             "name":"影视工厂(爬虫)",
             "type":3,
@@ -138,14 +173,14 @@
     "type": 0,
     "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
 	"playUrl": ""
-},
-{
+   },
+   {
 	"key": "4K影院",
 	"name": "4K影院",
 	"type": 0,
 	"api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
 	"playUrl": ""
-},
+    },
         {
             "key":"csp_xpath_94sm",
             "name":"94神马(XPath)",
@@ -217,16 +252,6 @@
             "ext":"https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
         },
         {
-    "key": "csp_xpath_jm",
-    "name": "剧迷(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-"ext": "{\"ua\":\"\",\"homeUrl\":\"https://jumi.tv\",\"cateNode\":\"//ul[contains(@class,'myui-header__menu nav-menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'type') and not(contains(@href, 'label'))]\",\"cateName\":\"/text()\",\"cateId\":\"/@href\",\"cateIdR\":\"/type/(\\\\w+).html\",\"cateManual\":{},\"homeVodNode\":\"//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]\",\"homeVodName\":\"/@title\",\"homeVodId\":\"/@href\",\"homeVodIdR\":\"/vod/(\\\\w+).html\",\"homeVodImg\":\"/@data-original\",\"homeVodImgR\":\"\\\\S+(http\\\\S+)\",\"homeVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"cateUrl\":\"https://jumi.tv/type/{cateId}-{catePg}.html\",\"cateVodNode\":\"//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]\",\"cateVodName\":\"/@title\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"/vod/(\\\\w+).html\",\"cateVodImg\":\"/@data-original\",\"cateVodImgR\":\"\\\\S+(http\\\\S+)\",\"cateVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"dtUrl\":\"https://jumi.tv/vod/{vid}.html\",\"dtNode\":\"//div[contains(@class,'col-lg-wide-75')]]\",\"dtName\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title\",\"dtNameR\":\"\",\"dtImg\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original\",\"dtImgR\":\"\\\\S+(http\\\\S+)\",\"dtCate\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分類')]/following-sibling::*/text()\",\"dtCateR\":\"\",\"dtYear\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()\",\"dtYearR\":\"\",\"dtArea\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地區')]/following-sibling::*/text()\",\"dtAreaR\":\"\",\"dtMark\":\"\",\"dtMarkR\":\"\",\"dtActor\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()\",\"dtActorR\":\"\",\"dtDirector\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '導演')]/following-sibling::*/text()\",\"dtDirectorR\":\"\",\"dtDesc\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '簡介')]/parent::text()\",\"dtDescR\":\"\",\"dtFromNode\":\"//a[@data-toggle='tab' and contains(@href, 'playlist')]\",\"dtFromName\":\"/text()\",\"dtFromNameR\":\"\",\"dtUrlNode\":\"//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]\",\"dtUrlSubNode\":\"//li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/play/(\\\\S+).html\",\"dtUrlName\":\"/text()\",\"dtUrlNameR\":\"\",\"playUrl\":\"https://jumi.tv/play/{playUrl}.html\",\"playUa\":\"\",\"searchUrl\":\"https://jumi.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10\",\"scVodNode\":\"json:list\",\"scVodName\":\"name\",\"scVodId\":\"id\",\"scVodIdR\":\"\",\"scVodImg\":\"pic\",\"scVodMark\":\"\"}"
-    },
-        {
             "key":"csp_xpath_tvci",
             "name":"大师兄(XPath)",
             "type":3,
@@ -266,11 +291,33 @@
             "filterable":0,
             "ext":"https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
         },
-        { "key": "小草影视", 
-           "name": "小草影视(爬虫)", 
-           "type": 1,
-           "api": "http://feng.ueuo.com/php/348z.php"
+            { "key": "爱美剧", 
+             "name": "爱美剧",
+             "type": 0, 
+             "api": "https://www.meijuxq.com/inc/api.php" 
+          },
+        {
+            "key": "美剧星球",
+            "name": "美剧星球",
+            "type": 0,
+            "api": "https://www.meijuxq.com/inc/api.php",
+            "playUrl": ""
         },
+                {
+            "key": "九九美剧",
+            "name": "九九美剧",
+            "type": 0,
+            "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+            "playUrl": "http://jx.hao-zsj.cn/vip/?url="
+        },
+        {
+      "key": "美剧天堂",
+      "name": "美剧天堂(爬虫)",
+      "type": 1,
+      "api": "https://www.meijuday.com/api.php/provide/vod/",
+      "playUrl": ""
+    },
+{ "key": "小草影视","name": "小草影视(爬虫)", "type": 1,"api": "http://feng.ueuo.com/php/348z.php"},
 { "key": "csp_N0ys", "name": "989播播影院（爬虫）", "type": 3, "api": "csp_N0ys", "searchable": 1, "quickSearch": 0, "filterable": 0 }, 
 { "key": "兔子窝影院", "name": "兔子窝影院（爬虫）", "type": 1, "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/?ac=list", "playUrl": "", "searchable": 1, "filterable": 0 }, 
 { "key": "虾米影视", "name": "虾米影视（爬虫）", "type": 0, "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml", "playUrl": "https://jx.xmflv.com/?url=", "searchable": 1, "filterable": 0 },
@@ -300,32 +347,6 @@
 { "key":"大海","name":"大海(爬虫)","type": 0,"api": "https://www.39kan.com/api.php/provide/vod/at/xml","playUrl":"","categories":["综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧" 
 ]
 },
-{ "key": "爱美剧", 
-"name": "爱美剧（爬虫）",
- "type": 0, 
-"api": "https://www.meijuxq.com/inc/api.php" 
-},
-        {
-            "key": "美剧星球",
-            "name": "美剧星球",
-            "type": 0,
-            "api": "https://www.meijuxq.com/inc/api.php",
-            "playUrl": ""
-        },
-                {
-            "key": "九九美剧",
-            "name": "九九美剧",
-            "type": 0,
-            "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-            "playUrl": "http://jx.hao-zsj.cn/vip/?url="
-        },
-        {
-      "key": "美剧天堂",
-      "name": "美剧天堂",
-      "type": 1,
-      "api": "https://www.meijuday.com/api.php/provide/vod/",
-      "playUrl": ""
-    },
 {
     "key": "我爱跟剧（爬虫）",
       "name": "我爱跟剧（爬虫）",
@@ -738,23 +759,6 @@
       ]
   },
   {
-      "key": "竹嘎资源",
-      "name": "竹嘎资源",
-      "type": 1,
-      "api": "http://m.ycccyk.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "动画片",
-        "综艺"
-      ]
-  },
-  {
       "key": "片库",
       "name": "片库",
       "type": 1,
@@ -871,15 +875,14 @@
 {"key":"csp_ysdq_追剧吧", "name":"追剧吧(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"追剧吧"},
 {"key":"csp_ysdq_侦探影视", "name":"侦探影视(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"侦探影视"},
 {"key":"csp_ysdq_追影兔", "name":"追影兔(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"追影兔"},
-{
-    "key": "csp_Imaple",
-    "name": "枫林网(爬虫)",
-    "type": 3,
-    "api": "csp_Imaple",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-  },
+{"key": "追剧吧APP","name": "追剧吧APP","type": 1,"api": "http://data.zju8.cc:1234/api.php/provide/vod/","playUrl":"","categories": []},
+{"key": "爱看啦","name": "爱看啦","type": 1,"api": "http://v.aik.la/api.php/provide/vod/","playUrl":"","categories": []},
+    {
+            "key":"小蜻蜓",
+            "name":"小蜻蜓",
+            "type":1,
+            "api":"http://3ketv.com/api.php/provide/vod/"
+        },
         {
             "key":"极品影视",
             "name":"极品影视",
@@ -1224,6 +1227,12 @@
             "api":"http://qkmp4.cn/api.php/provide/vod/at/xml/"
         },
         {
+            "key":"OmoFun动漫",
+            "name":"OmoFun动漫",
+            "type":0,
+            "api":"https://www.omofun.com/api.php/provide/vod/at/xml"
+        },
+        {
             "key":"免费影院",
             "name":"免费影院",
             "type":1,
@@ -1321,12 +1330,6 @@
       "type": 0,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml"
     },
-        {
-            "key":"小蜻蜓",
-            "name":"小蜻蜓",
-            "type":1,
-            "api":"http://3ketv.com/api.php/provide/vod/"
-        },
            {
       "key": "YT影视",
       "name": "YT影视",
@@ -1946,12 +1949,6 @@
       "name": "*52AVAV",
       "type": 0,
       "api": "http://02caiji.com/home/cjapi/aab3238922bcc25a6f606eb525ffdc56/vod/xml"
-    },
-    {
-      "key": "*芒果",
-      "name": "*芒果",
-      "type": 0,
-      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "*桃色",
@@ -3266,14 +3263,7 @@
             "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8",
             "http://27.47.68.65:808/hls/34/index.m3u8",
 "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8"
-          ]
-        },
-                {
-                    "name": "凤凰测试",
-                    "urls": [
-                        "http://124.232.231.246:6610/000000001001/201500000231/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2",
-                        "http://124.232.231.246:6610/000000001001/201500000230/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2"
-                    ]
+          ]   
         }
       ]
     },
@@ -3651,6 +3641,22 @@
     ],
     "spider": "https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/custom_spider.jar",
     "parses": [
+           {
+            "name": "默认解析",
+            "url": "https://m2090.com/?url="
+         },
+        {
+            "name": "备用解析",
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "U盘解析",
+            "url": "http://api.u1o.net/?url="            
+        },
+        {
+            "name": "ZSJ解析",
+            "url": "http://jx.hao-zsj.cn/vip/?url="
+        },
     {
       "name": "高清解析1",
       "type": 0,
@@ -3660,11 +3666,6 @@
       "name": "高清解析2",
       "type": 0,
       "url": "https://jx.mmkv.cn/tv.php?url="
-    },
-    {
-      "name": "高清解析3",
-      "type": 0,
-      "url": "https://okjx.cc?url="
     },
     {
       "name": "高清解析4",
@@ -3712,11 +3713,6 @@
       "url": "http://play1.online/?url="
     },
     {
-      "name": "解析5",
-      "type": 0,
-      "url": "http://api.baiyug.vip/?url="
-    },
-    {
       "name": "解析6",
       "type": 0,
       "url": "http://bofang.online/?url="
@@ -3736,10 +3732,6 @@
       "type": 0,
       "url": "https://jx.618g.com/?url="
     },
-         {
-            "name": "預設解析",
-            "url": "https://1.api.80tvs.cn/?url="
-        },
         {
             "name": "藍光解析",
             "url": "https://api.steak517.top/?url="
@@ -3763,18 +3755,6 @@
         {
             "name":"80tv",
             "url":"https://1.api.80tvs.cn/?url="
-        },
-        {
-            "name":"m2090",
-            "url":"https://m2090.com/?url="
-        },
-        {
-            "name":"乐喵",
-            "url":"https://jx.hao-zsj.cn/vip/?url="
-        },
-        {
-            "name": "百玉解析",
-            "url": "http://api.baiyug.vip/index.php?url="
         },
         {
             "name":"暮光解析",
@@ -3819,10 +3799,6 @@
         {
             "name":"虾米",
             "url":"https://jx.xmflv.com/?url="
-        },
-        {
-            "name":"全民解析",
-            "url":"https://jx.quanmingjiexi.com/?url="
         },
         {
             "name":"parwix解析",
@@ -4039,10 +4015,6 @@
             "url":"https://da.wujiys.com/?url="
         },
         {
-            "name":"618G",
-            "url":"https://jx.618g.com/?url="
-        },
-        {
             "name":"ckmov",
             "url":"https://www.ckmov.vip/api.php?url="
         },
@@ -4073,10 +4045,6 @@
         {
             "name":"磨菇",
             "url":"https://jx.wzslw.cn/?url="
-        },
-        {
-            "name":"OK",
-            "url":"https://okjx.cc/?url="
         },
         {
             "name":"小蒋",
@@ -4149,10 +4117,6 @@
         {
             "name":"PM",
             "url":"https://www.playm3u8.cn/jiexi.php?url="
-        },
-        {
-            "name":"奇米",
-            "url":"https://qimihe.com/?url="
         },
         {
             "name":"思云",
