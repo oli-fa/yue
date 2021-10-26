@@ -116,6 +116,7 @@
 				str += "韩国首尔：<a href=\"https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
 				str += "Github Raw：<a href=\"https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
 				str += "Githee Raw：<a href=\"https://gitee.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName+"\">https://gitee.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "Githee Raw：<a href=\"https://" + Username + ".coding.net/p/import-cbfl/d/" + RepositoryName + "/git/raw/" + BranchesName + "/" + Path + "/" + FileName+"?download=false"+"\">https://" + Username + ".coding.net/p/import-cbfl/d/" + RepositoryName + "/git/raw/" + BranchesName + "/" + Path + "/" + FileName+"?download=false</a><br >";
 				console.log(str)
 				$("#out").html(str);
 			});
@@ -141,6 +142,7 @@
 				copytxt += "韩国首尔：https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
 				copytxt += "Github Raw：https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName+"\n";
 				copytxt += "Githee Raw：https://gitee.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName+"\n";
+				copytxt += "Coding: https://" + Username + ".coding.net/p/import-cbfl/d/" + RepositoryName + "/git/raw/" + BranchesName + "/" + Path + "/" + FileName+"?download=false"
 				var clipboard = new ClipboardJS('#copy', {
 					text: function() {
 						return copytxt;
