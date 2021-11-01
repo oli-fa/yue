@@ -142,7 +142,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -160,7 +160,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -178,7 +178,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -196,7 +196,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -214,7 +214,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -246,7 +246,7 @@
 
             "searchable": 0,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -276,7 +276,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -294,7 +294,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -312,7 +312,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -330,7 +330,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 0
 
@@ -436,7 +436,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1
 
@@ -710,7 +710,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1530,7 +1530,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1550,7 +1550,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1570,7 +1570,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1590,7 +1590,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1610,7 +1610,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1630,7 +1630,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1650,7 +1650,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1670,7 +1670,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1690,7 +1690,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1710,7 +1710,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1730,7 +1730,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1750,7 +1750,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1770,7 +1770,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1790,7 +1790,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1810,7 +1810,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1830,7 +1830,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1850,7 +1850,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1870,7 +1870,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1890,7 +1890,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1910,7 +1910,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1930,7 +1930,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1950,7 +1950,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1970,7 +1970,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -1990,7 +1990,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2010,7 +2010,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2030,7 +2030,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2050,7 +2050,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2070,7 +2070,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2090,7 +2090,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2110,7 +2110,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2130,7 +2130,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2150,7 +2150,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2170,7 +2170,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2190,7 +2190,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2210,7 +2210,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2230,7 +2230,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2250,7 +2250,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2270,7 +2270,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2290,7 +2290,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2310,7 +2310,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2330,7 +2330,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2350,7 +2350,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2370,7 +2370,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2390,7 +2390,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2410,7 +2410,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2430,7 +2430,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2450,7 +2450,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2470,7 +2470,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2490,7 +2490,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2510,7 +2510,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2530,7 +2530,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2550,7 +2550,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2570,7 +2570,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2590,7 +2590,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2610,7 +2610,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2630,7 +2630,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2650,7 +2650,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2670,7 +2670,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2690,7 +2690,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2710,7 +2710,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2730,7 +2730,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2750,7 +2750,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2770,7 +2770,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2790,7 +2790,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2810,7 +2810,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2830,7 +2830,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2850,7 +2850,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2870,7 +2870,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2890,7 +2890,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2910,7 +2910,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2930,7 +2930,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2950,7 +2950,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2970,7 +2970,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -2990,7 +2990,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3010,7 +3010,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3030,7 +3030,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3050,7 +3050,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3070,7 +3070,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3090,7 +3090,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3110,7 +3110,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3130,7 +3130,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3150,7 +3150,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3170,7 +3170,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3190,7 +3190,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3210,7 +3210,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3230,7 +3230,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3250,7 +3250,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3270,7 +3270,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3290,7 +3290,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3310,7 +3310,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3330,7 +3330,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3350,7 +3350,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3370,7 +3370,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3390,7 +3390,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3410,7 +3410,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3430,7 +3430,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3450,7 +3450,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3470,7 +3470,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3490,7 +3490,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3510,7 +3510,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3530,7 +3530,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3550,7 +3550,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3570,7 +3570,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3590,7 +3590,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3610,7 +3610,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3630,7 +3630,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3650,7 +3650,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3670,7 +3670,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3690,7 +3690,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3710,7 +3710,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3730,7 +3730,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3750,7 +3750,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3770,7 +3770,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3790,7 +3790,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3810,7 +3810,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3830,7 +3830,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3850,7 +3850,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3870,7 +3870,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3890,7 +3890,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3910,7 +3910,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3930,7 +3930,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3950,7 +3950,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3970,7 +3970,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -3990,7 +3990,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4010,7 +4010,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4030,7 +4030,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4050,7 +4050,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4070,7 +4070,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4090,7 +4090,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4110,7 +4110,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4130,7 +4130,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4150,7 +4150,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4170,7 +4170,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4190,7 +4190,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4210,7 +4210,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4230,7 +4230,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4250,7 +4250,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4270,7 +4270,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4290,7 +4290,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4310,7 +4310,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4330,7 +4330,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4350,7 +4350,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4370,7 +4370,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4390,7 +4390,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4410,7 +4410,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4430,7 +4430,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4450,7 +4450,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4470,7 +4470,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4490,7 +4490,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4510,7 +4510,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4530,7 +4530,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4550,7 +4550,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4570,7 +4570,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4590,7 +4590,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4610,7 +4610,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4630,7 +4630,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4650,7 +4650,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4670,7 +4670,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4690,7 +4690,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4710,7 +4710,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4730,7 +4730,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4750,7 +4750,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4770,7 +4770,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4790,7 +4790,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4810,7 +4810,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4830,7 +4830,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4850,7 +4850,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4870,7 +4870,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4890,7 +4890,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4910,7 +4910,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4930,7 +4930,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4950,7 +4950,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -4970,7 +4970,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 1,
 
@@ -5002,7 +5002,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "filterable": 0
 
@@ -5384,7 +5384,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "007影视"
 
@@ -5402,7 +5402,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "555电影"
 
@@ -5420,7 +5420,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "5060影院"
 
@@ -5438,7 +5438,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "913E影视"
 
@@ -5456,7 +5456,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "播放呀"
 
@@ -5474,7 +5474,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "畅视影视"
 
@@ -5492,7 +5492,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "点播TV"
 
@@ -5510,7 +5510,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "迪迪影院"
 
@@ -5528,7 +5528,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "嘀哩嘀哩"
 
@@ -5546,7 +5546,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "毒舌电影"
 
@@ -5564,7 +5564,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "大师兄"
 
@@ -5582,7 +5582,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "瓜皮TV"
 
@@ -5600,7 +5600,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "海胆影视"
 
@@ -5618,7 +5618,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "海绵影视"
 
@@ -5636,7 +5636,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "京广航"
 
@@ -5654,7 +5654,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "九合视频"
 
@@ -5672,7 +5672,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "江湖影视"
 
@@ -5690,7 +5690,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "极客"
 
@@ -5708,7 +5708,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "久九影视"
 
@@ -5726,7 +5726,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "蓝果影视"
 
@@ -5744,7 +5744,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "琳琅影视"
 
@@ -5762,7 +5762,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "极乐阁"
 
@@ -5780,7 +5780,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "萌蛋蛋"
 
@@ -5798,7 +5798,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "思古影视"
 
@@ -5816,7 +5816,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "污妖动漫"
 
@@ -5834,7 +5834,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "小易影视"
 
@@ -5852,7 +5852,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "影视工场"
 
@@ -5870,7 +5870,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "追剧达人"
 
@@ -5888,7 +5888,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "80影视"
 
@@ -5906,7 +5906,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "80k影视"
 
@@ -5924,7 +5924,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "FUFU影视"
 
@@ -5942,7 +5942,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "VIP影视"
 
@@ -5960,7 +5960,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "爱影视"
 
@@ -5978,7 +5978,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "白菜追剧"
 
@@ -5996,7 +5996,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "初心影视"
 
@@ -6014,7 +6014,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "段友影视"
 
@@ -6032,7 +6032,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "飞捷影视"
 
@@ -6050,7 +6050,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "公主影视"
 
@@ -6068,7 +6068,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "辉哥影视"
 
@@ -6086,7 +6086,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "哈尼视频"
 
@@ -6104,7 +6104,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "核桃影视V1"
 
@@ -6122,7 +6122,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "懒猫电影"
 
@@ -6140,7 +6140,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "冷视TV"
 
@@ -6158,7 +6158,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "喵乐影视"
 
@@ -6176,7 +6176,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "南府追剧"
 
@@ -6194,7 +6194,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "内涵影视"
 
@@ -6212,7 +6212,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "柠檬影视"
 
@@ -6230,7 +6230,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "手指影视"
 
@@ -6248,7 +6248,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "淘剧社"
 
@@ -6266,7 +6266,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "团夕影院"
 
@@ -6284,7 +6284,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "我爱跟剧"
 
@@ -6302,7 +6302,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "吾爱影视"
 
@@ -6320,7 +6320,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "小城影视"
 
@@ -6338,7 +6338,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "先锋影视"
 
@@ -6356,7 +6356,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "小极影视"
 
@@ -6374,7 +6374,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "小蜻蜓视频"
 
@@ -6392,7 +6392,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "休闲影视"
 
@@ -6410,7 +6410,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "远方影视"
 
@@ -6428,7 +6428,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "颖家影院"
 
@@ -6446,7 +6446,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "优炫影视"
 
@@ -6464,7 +6464,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "一只鱼影视"
 
@@ -6482,7 +6482,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "追番猫"
 
@@ -6500,7 +6500,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "追剧吧"
 
@@ -6518,7 +6518,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "侦探影视"
 
@@ -6536,7 +6536,7 @@
 
             "searchable": 1,
 
-            "quickSearch": 0,
+            "quickSearch": 1,
 
             "ext": "追影兔"
 
