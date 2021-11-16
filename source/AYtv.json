@@ -2,7 +2,7 @@
 "wallpaper": "https://github.com/Tangsan99999/Public/blob/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
 "spider":"https://gitee.com/oli-fa/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites": [
-{"key":"csp_xpath_gimytv","name":"1116默认主页","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
+{"key":"csp_xpath_gimytv","name":"1118默认主页","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
        {
             "key": "红牛资源",
             "name": "红牛",

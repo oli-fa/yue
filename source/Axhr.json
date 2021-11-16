@@ -2,7 +2,7 @@
 "wallpaper": "https://github.com/Tangsan99999/Public/blob/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
 "spider":"https://gitee.com/oli-fa/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites": [
-    {"key":"csp_yysdali","name":"YYDS(首选主页1115)","type":3,"api":"csp_YydsAli","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/yyds.json"}, 
+    {"key":"csp_yysdali","name":"YYDS(首选主页1118)","type":3,"api":"csp_YydsAli","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/yyds.json"}, 
        {
             "key": "红牛资源",
             "name": "备用首页",
