@@ -1,15 +1,15 @@
 { 
 "spider":"https://gitee.com/oli-fa/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites": [
-  {"key":"csp_yysdali","name":"YYDS(首选主页1119)","type":3,"api":"csp_YydsAli","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/yyds.json"}, 
+{"key":"csp_xpath_gimytv","name":"1119默认主页","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
        {
             "key": "红牛资源",
-            "name": "备用首页",
+            "name": "红牛",
             "type": 0,
             "api": "https://www.hongniuzy.com/inc/api.php",
             "playUrl": "https://www.hongniujiexi.com/m3u8/?url=",
             "categories": [
-                "伦理片",
+                "L理片",
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -36,7 +36,7 @@
             "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [
-                "理论片",
+                "li论片",
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -172,6 +172,7 @@
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nekk","name":"9E看看","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
+{"key": "csp_xpath_1010dy","name": "1010dy(XPMac)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/Tangsan99999/Public/main/xpath/1010dy.json"},
 {"key": "csp_xpath_vipmv","name": "追剧(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/vipmv.json"},
 {"key": "csp_xpath_xkys","name": "星空(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/xkys.json"},
 {"key": "csp_xpath_gimy","name": "GimyTV(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
@@ -260,8 +261,8 @@
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy.com/inc/apijson_vod.php","playUrl":"https://www.tutukiki.com/m3u8/?url=","categories":[],"searchable":0},
 {"key":"奇乐(优剧)资源","name":"奇乐(优剧)资源","type":1,"api":"https://zy.ujuba.com/api.php/provide/vod/","playUrl":"","categories":[]},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","playUrl":"","categories":[]},
-{"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","categories":[]},     
-   {"key":"csp_appys_xiaogui_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
+{"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","categories":[]},
+{"key":"csp_appys_xiaogui_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
 {"key":"csp_appys_xiaogui_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_555电影"},
 {"key":"csp_appys_xiaogui_5060影院", "name":"5060影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_5060影院"},
 {"key":"csp_appys_xiaogui_913e影视", "name":"913e影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_913e影视"},
