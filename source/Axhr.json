@@ -139,15 +139,14 @@
             "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
         },
         {
-      "key":
-      "csp_xpath_rrys",
-      "name":"人人影视(XPMac)",
-      "type":3,
-      "api":"csp_XPathMac",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
- "ext":"https://gitee.com/oli-fa/yue/raw/main/source/rrys.json"
+      "key": "csp_xpath_rrys",
+      "name": "人人影视(XPath)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext":"https://gitee.com/oli-fa/yue/raw/main/source/rrys.json"
       },
 {"key": "csp_YydsAli","name": "YYDS阿里(爬虫)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
@@ -370,7 +369,7 @@
             "api": "https://www.hongniuzy1.com/inc/hnm3u8.php",
             "playUrl": "https://www.hongniujiexi.com/m3u8/?url=",
             "categories": [
-                "伦理片",
+                "L理片",
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -897,7 +896,7 @@
         },
         {
             "key":"X8资源",
-            "name":"X8资源（ ⇩⇩18++⇩⇩）",
+            "name":"X8资源（⇩18+⇩）",
             "type":0,
             "api":"https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml"
         },
@@ -5349,7 +5348,7 @@
       ]
     },
         {
-      "group": "日本AV",
+      "group": "日本教学",
       "channels": [
     {
 	"name":"一本道720P03",
