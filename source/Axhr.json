@@ -1,7 +1,22 @@
 { 
 "spider":"https://gitee.com/oli-fa/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites": [
-{"key":"csp_xpath_gimytv","name":"1123默认主页","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
+{"key": "csp_YydsAli","name": "YYDS阿里(主页)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key":"csp_xpath_gimytv","name":"1123备用","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
+            {
+            "key": "人人影视",
+            "name": "人人影视",
+            "type": 0,
+            "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
+            "playUrl": "https://jx.renrenmi.cc/?url="
+        },
+        {
+            "key": "淘片资源",
+            "name": "淘片资源",
+            "type": 0,
+            "api": "https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8",
+            "playUrl": ""
+        },
           {
             "key": "csp_Buka",
             "name": "不卡（爬虫）",
@@ -148,7 +163,6 @@
       "filterable": 0,
       "ext":"https://gitee.com/oli-fa/yue/raw/main/source/rrys.json"
       },
-{"key": "csp_YydsAli","name": "YYDS阿里(爬虫)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nfx","name":"NFXHD(爬虫)","type":3,"api":"csp_Nfx","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Djx","name":"瓜皮TV(爬虫)","type":3,"api":"csp_Djx","searchable":1,"quickSearch":1,"filterable":1},
