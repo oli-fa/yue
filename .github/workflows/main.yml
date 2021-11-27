@@ -5,7 +5,6 @@ on: [push, workflow_dispatch]
 jobs:
   speed:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -13,3 +12,31 @@ jobs:
           python-version: 3.x
       - run: pip install requests
       - run: python ./.github/scripts/purge_cache.py
+
+  deploy:
+    name: Deploy to Coding
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: 设置提交者的个人信息
+        env:
+          # 设置时区
+          TZ: Asia/Shanghai
+          # 在coding.net的某个仓库新建访问令牌出现的秘钥
+          coding_token: ${{ secrets.DEPLOY_CODING }}
+          # 团队中的某个人的用户名，一般默认是本人手机号码
+          coding_username: ${{ secrets.CODING_USERNAME }}
+          # 格式为：e.coding.net/组织名/项目名/仓库名.git
+          coding_ref: ${{ secrets.CODING_REF }}
+        run: |
+          export message=$(git log --pretty=format:"%s" -1)
+          [ -f CNAME ] && rm CNAME || echo "CNAME doesn't exist"
+          rm -rf .github
+          rm -rf .git
+          git clone https://${coding_username}:${coding_token}@${coding_ref} coding_dir
+          cd coding_dir && mv .git ../ && cd ../ && rm -rf coding_dir
+          git config core.filemode false
+          git remote set-url origin https://${coding_ref}
+          git add .
+          git commit -m "$message"
+          git push --force --quiet "https://${coding_username}:${coding_token}@${coding_ref}" master:master
