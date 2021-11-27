@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: 设置提交者的个人信息
+      - name: 设置提交者的个人信息1
         env:
           # 设置时区
           TZ: Asia/Shanghai
