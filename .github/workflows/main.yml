@@ -36,7 +36,7 @@ jobs:
           git clone https://${coding_username}:${coding_token}@${coding_ref} coding_dir
           cd coding_dir && mv .git ../ && cd ../ && rm -rf coding_dir
           git config --global --unset http.proxy 
-          git config --global --unset https.proxy
+          git config --global --unset git.proxy
           git config core.filemode false
           git remote set-url origin https://${coding_ref}
           git add .
